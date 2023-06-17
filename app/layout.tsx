@@ -2,7 +2,7 @@ import { Navbar, Footer } from '@/components'
 import './globals.css'
 
 export const metadata = {
-  title: 'Create Next App',
+  title: 'Car Rent',
   description: 'Discover the best cars in the world.',
 }
 
